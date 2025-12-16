@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Data Scientist course in DataMites <br>I want to become a Data Scientist 
+I'm currently pursuing Data Scientist course in DataMites <br>Ask me about Programming 
 
 
 ## 🌐 Socials:
