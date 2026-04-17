@@ -32,6 +32,11 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Matplotlib • Excel �
 
 ---
 
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![Machine Learning](https://img.shields.io/badge/ML-green)
+---
+
 ## 🚀 Featured Projects
 
 ### 📱 Cellphone Price Prediction  
