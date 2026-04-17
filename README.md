@@ -20,7 +20,7 @@ I turn data into insights using Python, SQL, and Machine Learning 🚀
 <p align="center">
 <a href="https://www.linkedin.com/in/shweta-yaligar-a32574306">LinkedIn</a> • 
 <a href="https://github.com/shwetayaligar24">GitHub</a> • 
-<a href="mailto:shwetayaligar24@gmail.com">Email</a>
+<a href="https://mail.google.com/mail/?view=cm&to=shwetayaligar24@gmail.com">Email</a>
 </p>
 
 
